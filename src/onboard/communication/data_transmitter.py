@@ -1,6 +1,6 @@
-"""
-Data Transmitter: Sends telemetry/images to Ground Station
-"""
+
+#Data Transmitter: Sends telemetry/images to Ground Station
+
 import socket
 
 class DataTransmitter:
