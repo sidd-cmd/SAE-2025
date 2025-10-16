@@ -1,6 +1,6 @@
-"""
-AES Encryption for Secure Telemetry and Commands
-"""
+
+#AES Encryption for Secure Telemetry and Commands
+
 from Crypto.Cipher import AES
 import os
 
