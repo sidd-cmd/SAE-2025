@@ -1,6 +1,6 @@
-"""
-Command Receiver: Receives commands from Ground Station
-"""
+
+#Command Receiver: Receives commands from Ground Station
+
 import socket
 
 class CommandReceiver:
